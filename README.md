@@ -1,9 +1,9 @@
 
 # AND101 Project 4 - CodeMath
 
-Submitted by: **Your Name Here**
+Submitted by: **Prabhdeep Brar**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Summary
 
