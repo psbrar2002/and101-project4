@@ -7,7 +7,7 @@ Time spent: **7** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in this description**
+**Tip Calculator** is an android app that **calculates typs**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -17,18 +17,18 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] At least one (1) user input
-- [ ] At least one (1) interactive View
-- [ ] At least one (1) output of a calculation based on the user input
+- [x] At least one (1) user input
+- [x] At least one (1) interactive View
+- [x] At least one (1) output of a calculation based on the user input
 
 The following STRETCH features are implemented:
 
 - [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [ ] Add at least one (1) additional functionality
+- [x] Add at least one (1) additional functionality
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] Added a new theme and a different UI made sure font sizes and spacing seemed professional and everything is alligned.
 
 ## Video Demo
 
